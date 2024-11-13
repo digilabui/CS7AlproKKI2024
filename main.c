@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Definisi struct Mahasiswa
+// Declare struct Mahasiswa
 typedef struct {
     char nama[50];
     char npm[20];
@@ -14,18 +14,18 @@ void tambahMahasiswa() {
 
 }
 
-// Fungsi untuk menampilkan seluruh isi database
-void tampilkanDatabase() {
+// Fungsi untuk print seluruh isi database
+void printDatabase() {
 
 }
 
-// Fungsi untuk menampilkan mahasiswa dengan status akademis aktif
-void tampilkanMahasiswaAktif() {
+// Fungsi untuk print mahasiswa dengan status akademis aktif
+void printMahasiswaAktif() {
 
 }
 
 // Fungsi untuk menambahkan 1 ke semester seluruh mahasiswa
-void tambahSemesterSemua() {
+void tambahSemester() {
  
 }
 
