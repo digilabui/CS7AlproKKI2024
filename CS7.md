@@ -17,7 +17,7 @@ Program memiliki beberapa fitur dalam mengakses database yaitu:
 - Menampilkan mahasiswa yang memiliki status akademis aktif dalam database
 - Menjumlahkan nilai semester seluruh mahasiswa dengan 1 ketika berganti semester
 
-Implementasi fitur ini  diterapkan dalam bentuk function.
+Implementasi fitur ini  diterapkan dalam bentuk function dengan sebuah interface sederhana yang sudah diberikan pada main.c
 ## Output
 Format input dan output tidak wajib mengikuti format dibawah ini
 
